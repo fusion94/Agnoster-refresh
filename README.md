@@ -13,3 +13,5 @@ Here are the customizations:
 * Cursor: #d13a82
 
 ### Shell Tweaks
+
+### License
