@@ -13,6 +13,9 @@ Here are the customizations:
 * Cursor: #d13a82
 
 ### Shell Tweaks
+This makes use of a battery capacity script from stevelosh.com’s blog: batcharge.py.
+
+There is also an online indicator, green for active connection, and red for not.  It’s done by a cronjob touching or removing a file to indicate status every minute, and the file is checked by the prompt: online-check.sh.
 
 ### License
 Licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
