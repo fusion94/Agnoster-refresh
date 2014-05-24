@@ -19,3 +19,6 @@ There is also an online indicator, green for active connection, and red for not.
 
 ### License
 Licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+### Credits
+This terminal was based off the work of the following [Blog Post](http://remysharp.com/2013/07/25/my-terminal-setup/) by Remy Sharp
